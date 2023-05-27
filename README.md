@@ -13,8 +13,12 @@
 &nbsp;Feel free to reach out to me for some enqueries and discussions. You can reach me at guticar94@gmail.com!
 
 <br>
+<div class="row">
+<div class="column">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guticar94&show_icons=true&include_all_commits=true&count_private=true" align="right"/>
+</div>
 
+<div class="column">    
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -48,8 +52,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
+</div>
+</div>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/62242378"><img src="https://img.shields.io/badge/-Andr%C3%A9s%20Guti%C3%A9rrez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
