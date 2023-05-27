@@ -21,8 +21,9 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=Databricks)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
-![lINUX](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;<br>
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;<br>
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![RDBS](https://img.shields.io/badge/-RDBS-05122A?style=flat&logo=RDBS)&nbsp;
 ![AzureCloud](https://img.shields.io/badge/microsoft%20azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira)&nbsp;
