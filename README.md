@@ -19,38 +19,41 @@
 </div>
 
 <div class="column">    
-### 🛠 &nbsp;Tech Stack
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=Databricks)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;<br>
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;<br>
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![RDBS](https://img.shields.io/badge/-RDBS-05122A?style=flat&logo=RDBS)&nbsp;
-![AzureCloud](https://img.shields.io/badge/microsoft%20azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![AzureCloud](https://img.shields.io/badge/microsoft%20azure-05122A?style=flat&logo=microsoft-azure)&nbsp;<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira)&nbsp;
 
-#### &nbsp;Python main modules:
+<h4> &nbsp;Python main modules: </h4>
 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?flat&logo=tensorflow&logoColor=white)&nbsp;
-![keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)&nbsp;<br>
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?flat&logo=tensorflow&logoColor=white)&nbsp;<br>
+![keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)&nbsp;
-![MlFlow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)&nbsp;
+![MlFlow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)&nbsp;<br>
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![nltk](https://img.shields.io/badge/-nltk-05122A?style=flat&logo=nltk)&nbsp;
+![Pyspark](https://img.shields.io/badge/-Pyspark-05122A?style=flat&logo=pyspark)&nbsp;
+![beautifulsoup](https://img.shields.io/badge/-beautifulsoup-05122A?style=flat&logo=beautifulsoup)&nbsp;
 
-#### &nbsp;Other frameworks:
+<h4> &nbsp;Other frameworks: </h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![CouchDB](https://img.shields.io/badge/couchDB-DA1F26?style=flat&logo=couchdb&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;<br>
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </div>
 </div>
