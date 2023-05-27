@@ -36,7 +36,7 @@
 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
-![Scikitlearn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Scikitlearn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;<br>
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?flat&logo=tensorflow&logoColor=white)&nbsp;
 ![keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)&nbsp;<br>
