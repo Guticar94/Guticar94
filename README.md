@@ -37,6 +37,8 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;<br>
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch)&nbsp;<br>
+![nltk](https://img.shields.io/badge/-nltk-05122A?style=flat&logo=nltk)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?flat&logo=tensorflow&logoColor=white)&nbsp;
 ![keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)&nbsp;
@@ -44,7 +46,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)&nbsp;
 ![MlFlow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![nltk](https://img.shields.io/badge/-nltk-05122A?style=flat&logo=nltk)&nbsp;
 ![Pyspark](https://img.shields.io/badge/-Pyspark-05122A?style=flat&logo=pyspark)&nbsp;
 ![beautifulsoup](https://img.shields.io/badge/-beautifulsoup-05122A?style=flat&logo=beautifulsoup)&nbsp;
 
