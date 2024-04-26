@@ -8,7 +8,7 @@
 <!-- ## &nbsp;Hello there! -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-&nbsp;I'm from Colombia 🇨🇴, 29 years old. currently studying a master of Data Science at the University of Melbourne.
+&nbsp;I'm from Colombia 🇨🇴, 30 years old. currently studying a master of Data Science at the University of Melbourne.
 &nbsp;I'm on track for learning more about Artificial Intelligence, computer vision, and NLP.
 &nbsp;Feel free to reach out to me for some enqueries and discussions. You can reach me at guticar94@gmail.com!
 
