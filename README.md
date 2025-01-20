@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Guticar94/Guticar94/blob/main/profile.png">
+    <img width="200" src="https://github.com/Guticar94/Guticar94/blob/main/prof.png">
 </p>
 <h1 align="center"> Andrés Felipe Gutiérrez carreño </H1>
 
